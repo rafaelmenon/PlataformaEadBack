@@ -1,3 +1,5 @@
+Criar pasta public para upload do video.
+
 module.exports = {
   authSecret: '',
 }
